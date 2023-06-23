@@ -1,0 +1,9 @@
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\bin\Debug\testeNif.exe.config
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\bin\Debug\testeNif.exe
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\bin\Debug\testeNif.pdb
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\obj\Debug\testeNif.csprojResolveAssemblyReference.cache
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\obj\Debug\testeNif.Form1.resources
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\obj\Debug\testeNif.Properties.Resources.resources
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\obj\Debug\testeNif.csproj.GenerateResource.Cache
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\obj\Debug\testeNif.exe
+c:\users\mr.adailton\documents\visual studio 2015\Projects\testeNif\testeNif\obj\Debug\testeNif.pdb
